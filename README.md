@@ -1,16 +1,20 @@
 ﻿<div align="center">
 
-  <!-- Header Typing Animation -->
-  <a href="https://wakkar.net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=Hi+there!+%F0%9F%91%8B+I'm+Iliass+Wakkar;SAP+Technical+Engineer+(ABAP+Specialist)+%F0%9F%92%BC;Full-Stack+Developer+(React+%E2%80%A2+Spring+%E2%80%A2+.NET);AI+%26+Cloud+Integration+Enthusiast+%F0%9F%A4%96;Double+Degree+Engineer+(EMSI+%2B+UCA)+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=210&section=header&text=Iliass%20Wakkar&fontSize=48&fontColor=ffffff&animation=fadeIn&subtext=SAP%20Technical%20Engineer%20%7C%20Full-Stack%20Developer&subfontSize=18&subfontColor=abb2bf" width="100%" />
 
+  <!-- Animated Typing Subtitle -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=620&lines=SAP+Technical+Engineer+(ABAP+Specialist)+%F0%9F%92%BC;Full-Stack+Developer+(React+%E2%80%A2+Spring+%E2%80%A2+.NET);Cloud+%26+AI+Integration+Enthusiast+%F0%9F%A4%96;Double+Degree+Engineer+(EMSI+%2B+UCA)+%F0%9F%8E%93" alt="Typing SVG" />
+  </p>
+
+  <!-- Profile Metrics & Location Badges -->
   <p align="center">
     <a href="https://github.com/iliass-wakkar">
       <img src="https://komarev.com/ghpvc/?username=iliass-wakkar&label=Profile%20Views&color=61afef&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/github/followers/iliass-wakkar?label=Followers&style=flat-square&color=28a745&logo=github" alt="GitHub Followers" />
-    <img src="https://img.shields.io/badge/Location-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-blue?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Morocco%20%F0%9F%87%B2%F0%9F%87%A6-0e75b6?style=flat-square" alt="Location" />
   </p>
 
   <!-- Social & Contact Badges -->
@@ -126,48 +130,24 @@ profile:
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iliass-wakkar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 GitHub Activity & Language Distribution
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img width="420" src="https://github-readme-stats.vercel.app/api?username=iliass-wakkar&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="Iliass's GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iliass-wakkar&theme=tokyonight" alt="Profile Details" />
       </td>
       <td>
-        <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliass-wakkar&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iliass-wakkar&theme=tokyonight" alt="Language Distribution" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=iliass-wakkar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iliass-wakkar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iliass-wakkar&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Graph Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iliass-wakkar/iliass-wakkar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
